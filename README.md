@@ -1,1 +1,1 @@
-자바 Switch 문에 대한 공부
+자바 Variable 문에 대한 공부
