@@ -1,1 +1,1 @@
-자바 Variable 문에 대한 공부
+자바 Random 객체만들기
