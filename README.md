@@ -1,1 +1,1 @@
-자바 Random 객체만들기
+자바 InnerClass 객체 만들기
