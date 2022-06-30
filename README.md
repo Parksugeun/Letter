@@ -1,1 +1,1 @@
-자바 InnerClass 객체 만들기
+자바 Interface 관련 공부
